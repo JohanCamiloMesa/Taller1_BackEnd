@@ -82,7 +82,7 @@ Cinco ejercicios que aplican conceptos avanzados de programación y análisis de
 
 1. **Clonar el repositorio** (si aplica):
 ```bash
-git clone <url-del-repositorio>
+git clone <https://github.com/JohanCamiloMesa/Taller1_BackEnd.git>
 cd Talle1_BackEnd
 ```
 
